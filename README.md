@@ -23,6 +23,7 @@ Tech: Solidity, Foundry
 
 - [De-Authentication Using Ambient Light Sensor](https://doi.org/10.1109/ACCESS.2024.3367607)
 - [CSUM: A Novel Mechanism for Updating CubeSat while Preserving Authenticity and Integrity](https://doi.org/10.1109/LCN60385.2024.10639617)
+- [CSUM-G: Group Software Updates for CubeSat Clusters](https://doi.org/10.1109/LCN65610.2025.11146335)
 
 ---
 
